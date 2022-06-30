@@ -27,8 +27,8 @@ run into challenges, but ask the person leading this session if you get stuck an
 
 1. Fork this repo to your own account.
 1. Get the Node service running on Render as quickly as possible.
-   a. Put `npm install` as the build command
-   b. Put `npm start` as the start command
+   - Put `npm install` as the build command
+   - Put `npm start` as the start command
 2. Set up a Redis instance on Render and configure it to be used by the service.
 3. Configure Render to automatically deploy new copies of your app whenever you make PRs to the repo
 4. Make a PR that improves the page in some way (at minimum, changes to your name!). Make sure you view the Render preview of that change _before_ merging the change to production.
